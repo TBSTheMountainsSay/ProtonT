@@ -1,0 +1,61 @@
+@import 'color';
+
+*,
+*:after,
+*:before {
+  font-size: 10px;
+  font-family: MuseoSansCyrl, sans-serif;
+}
+
+.wrapper{
+  position: relative;
+  z-index: 1;
+}
+
+.svg-preloader{
+  stroke: var(--button);
+  width: 5rem;
+  height: 5rem;
+  margin: 0 auto;
+}
+
+@media (max-width: 850px) {
+  .main {
+    padding: 0 1.5rem;
+  }
+}
+
+.corner {
+  position: absolute;
+
+  left: 0;
+  top: 0;
+  transform: rotate(90deg);
+}
+.right {
+  left: unset;
+  right: 0;
+  transform: rotate(180deg);
+}
+.bottom {
+  top: unset;
+  bottom: 0;
+  transform: rotate(0deg);
+}
+.right.bottom {
+  transform: rotate(-90deg);
+}
+
+:root {
+  @each $name, $color in $light-theme {
+    --#{$name}: #{$color};
+  }
+  color-scheme: light;
+}
+
+:root[color-scheme='light'] {
+  @each $name, $color in $light-theme {
+    --#{$name}: #{$color};
+  }
+  color-scheme: light;
+}

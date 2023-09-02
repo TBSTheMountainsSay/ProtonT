@@ -1,0 +1,47 @@
+.header {
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80rem;
+  .background {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-image: url('../../images/background.jpg');
+    filter: blur(5px);
+    height: 80rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .title {
+    position: relative;
+    font-size: 10rem;
+    font-weight: 700;
+    color: var(--def);
+    text-shadow: 0 0 15px var(--main-text);
+  }
+}
+
+@media (max-width: 1024px) {
+  .header {
+    height: 60rem;
+    .background {
+      height: 60rem;
+    }
+    .title {
+      font-size: 7rem;
+    }
+  }
+}
+
+@media (max-width: 495px) {
+  .header {
+    .title {
+      font-size: 5rem;
+    }
+  }
+}
