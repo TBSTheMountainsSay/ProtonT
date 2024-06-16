@@ -25,6 +25,13 @@
     width: 60rem;
     overflow: hidden;
   }
+  .href{
+    font-weight: 500;
+    font-size: 2.5rem;
+    line-height: 3.2rem;
+    margin: 1rem 0;
+    text-decoration: underline;
+  }
 }
 
 @media (max-width: 650px) {
@@ -39,6 +46,15 @@
     .footerImg {
       max-width: 35rem;
       width: 35rem;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .about {
+    .href {
+      font-size: 1.5rem;
+      line-height: 2rem;
     }
   }
 }
