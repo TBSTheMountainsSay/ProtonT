@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ProtonT/static/css/main.095ee4e6.css",
+    "main.js": "/ProtonT/static/js/main.e0ff0fd0.js",
+    "static/js/787.3b9be897.chunk.js": "/ProtonT/static/js/787.3b9be897.chunk.js",
+    "static/media/background.jpg": "/ProtonT/static/media/background.f9364978c1e7d8a32f12.jpg",
+    "static/media/3.jpg": "/ProtonT/static/media/3.5efa024c80e604237b0e.jpg",
+    "static/media/5.jpg": "/ProtonT/static/media/5.f983e544ec8e4ba70580.jpg",
+    "static/media/4.jpg": "/ProtonT/static/media/4.785794f4c032aa34a73c.jpg",
+    "static/media/6.jpg": "/ProtonT/static/media/6.1ff333d21eee6bf73b54.jpg",
+    "static/media/1.jpg": "/ProtonT/static/media/1.0421d7573d2e542582b8.jpg",
+    "static/media/2.jpg": "/ProtonT/static/media/2.58c7e9748ebc4e827cd3.jpg",
+    "static/media/KSU.png": "/ProtonT/static/media/KSU.5403537e4e0e58c15956.png",
+    "static/media/innovacNEW.png": "/ProtonT/static/media/innovacNEW.5b7189353624f51f72c5.png",
+    "static/media/fic.jpg": "/ProtonT/static/media/fic.927594bb6dfb9932e627.jpg",
+    "index.html": "/ProtonT/index.html",
+    "main.095ee4e6.css.map": "/ProtonT/static/css/main.095ee4e6.css.map",
+    "main.e0ff0fd0.js.map": "/ProtonT/static/js/main.e0ff0fd0.js.map",
+    "787.3b9be897.chunk.js.map": "/ProtonT/static/js/787.3b9be897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095ee4e6.css",
+    "static/js/main.e0ff0fd0.js"
+  ]
+}
