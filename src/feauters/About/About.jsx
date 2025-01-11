@@ -27,7 +27,7 @@ const About = ({}) => {
           />
           <div className={styles.wrapper}>
               <img src={img1} className={styles.img}/>
-              <img src={img2} className={styles.img}/>0
+              <img src={img2} className={styles.img}/>
           </div>
           <Text
               text={
