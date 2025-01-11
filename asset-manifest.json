@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProtonT/static/css/main.095ee4e6.css",
-    "main.js": "/ProtonT/static/js/main.e0ff0fd0.js",
+    "main.js": "/ProtonT/static/js/main.cbf99cd8.js",
     "static/js/787.3b9be897.chunk.js": "/ProtonT/static/js/787.3b9be897.chunk.js",
     "static/media/background.jpg": "/ProtonT/static/media/background.f9364978c1e7d8a32f12.jpg",
     "static/media/3.jpg": "/ProtonT/static/media/3.5efa024c80e604237b0e.jpg",
@@ -15,11 +15,11 @@
     "static/media/fic.jpg": "/ProtonT/static/media/fic.927594bb6dfb9932e627.jpg",
     "index.html": "/ProtonT/index.html",
     "main.095ee4e6.css.map": "/ProtonT/static/css/main.095ee4e6.css.map",
-    "main.e0ff0fd0.js.map": "/ProtonT/static/js/main.e0ff0fd0.js.map",
+    "main.cbf99cd8.js.map": "/ProtonT/static/js/main.cbf99cd8.js.map",
     "787.3b9be897.chunk.js.map": "/ProtonT/static/js/787.3b9be897.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.095ee4e6.css",
-    "static/js/main.e0ff0fd0.js"
+    "static/js/main.cbf99cd8.js"
   ]
 }
